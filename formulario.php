@@ -144,7 +144,7 @@ body,td,th {
             
             <td width="10%"><label><strong>2.</strong> <strong>CANT&Oacute;N.........</strong></label></td>
             <td width="19%"><? echo'<input name="cod_canton" type="text" id="cod_canton" maxlength="2" onkeypress="return validarN(event);" onKeyUp="fn(this.form,this,event);" onBlur="entre(this,1,1000,this.form);" required="required"/>';?></td>
-            <td width="13%"><label><strong>3. PARROQUIA..........</strong></label></td>
+            <td width="13%"><label><strong>3. PARROQUIA(ECUADOR)..........</strong></label></td>
             <td width="21%"><? echo '<input name="cod_parroquia" type="text" id="cod_parroquia" maxlength="2" onkeypress="return validarN(event)" onKeyUp="fn(this.form,this,event);" onBlur="entre(this,1,1000,this.form);" required="required"/>';?></td>
             </tr>
         </table></td>
